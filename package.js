@@ -1,8 +1,8 @@
 Package.describe({
-  summary: "Make signin and signout their own pages with routes (in javascript)",
-  version: '0.8.3',
-  name: "selaias:accounts-entry",
-  git: 'https://github.com/selaias/meteor-accounts-entry.git',
+  summary: "Make signin and signout their own pages with routes (in javascript) WITH ENROLL ACCOUNT",
+  version: '0.8.3-enroll',
+  name: "benmgreene:accounts-entry",
+  git: 'https://github.com/benmgreene/meteor-accounts-entry.git',
 });
 
 Package.onUse(function(api) {
